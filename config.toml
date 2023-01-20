@@ -1,8 +1,7 @@
 # baseURL = "http://example.org/"
 # [en, zh-cn, fr, ...] determines default content language
-defaultContentLanguage = "en"
+defaultContentLanguage = "jp"
 # language code
-languageCode = "en"
 title = "鸿灏沧润"
 
 # Change the default theme to be use when building the site with Hugo
@@ -12,42 +11,128 @@ theme = "DoIt"
   # DoIt theme version
   version = "0.2.X"
 
-[menu]
-  [[menu.main]]
-    identifier = "posts"
-    # you can add extra information before the name (HTML format is supported), such as icons
-    pre = ""
-    # you can add extra information after the name (HTML format is supported), such as icons
-    post = ""
-    name = "Posts"
-    url = "/posts/"
-    # title will be shown when you hover on this menu link
-    title = ""
+
+[languages]
+  [languages.en]
     weight = 1
-  [[menu.main]]
-    identifier = "tags"
-    pre = ""
-    post = ""
-    name = "Tags"
-    url = "/tags/"
-    title = ""
+    title = "RaphealX's Site"
+    languageCode = "en"
+    languageName = "English"
+    [[languages.en.menu.main]]
+      identifier = "posts"
+      pre = ""
+      post = ""
+      name = "Posts"
+      url = "/posts/"
+      title = ""
+      weight = 1
+    [[languages.en.menu.main]]
+      identifier = "tags"
+      pre = ""
+      post = ""
+      name = "Tags"
+      url = "/tags/"
+      title = ""
+      weight = 2
+    [[languages.en.menu.main]]
+      identifier = "categories"
+      pre = ""
+      post = ""
+      name = "Categories"
+      url = "/categories/"
+      title = ""
+      weight = 3
+    [[languages.en.menu.main]]
+     identifier = "about"
+      pre = ""
+      post = ""
+      name = "About"
+      url = "/about/"
+      title = ""
+      weight = 4
+
+  [languages.zh-cn]
     weight = 2
-  [[menu.main]]
-    identifier = "categories"
-    pre = ""
-    post = ""
-    name = "Categories"
-    url = "/categories/"
-    title = ""
+    title = "鸿灏沧润"
+    # language code, CN only here
+    languageCode = "zh-CN"
+    languageName = "简体中文"
+    # whether to include Chinese/Japanese/Korean
+    hasCJKLanguage = true
+    [[languages.zh-cn.menu.main]]
+      identifier = "posts"
+      pre = ""
+      post = ""
+      name = "文章"
+      url = "/posts/"
+      title = ""
+      weight = 1
+    [[languages.zh-cn.menu.main]]
+      identifier = "tags"
+      pre = ""
+      post = ""
+      name = "标签"
+      url = "/tags/"
+      title = ""
+      weight = 2
+    [[languages.zh-cn.menu.main]]
+      identifier = "categories"
+      pre = ""
+      post = ""
+      name = "分类"
+      url = "/categories/"
+      title = ""
+      weight = 3
+    [[languages.zh-cn.menu.main]]
+      identifier = "about"
+      pre = ""
+      post = ""
+      name = "关于"
+      url = "/about/"
+      title = ""
+      weight = 4
+  
+  [languages.jp]
     weight = 3
-  [[menu.main]]
-    identifier = "about"
-    pre = ""
-    post = ""
-    name = "About"
-    url = "/about/"
-    title = ""
-    weight = 4
+    title = "銀"
+    # language code, CN only here
+    languageCode = "jp"
+    languageName = "日本語"
+    # whether to include Chinese/Japanese/Korean
+    hasCJKLanguage = true
+    [[languages.jp.menu.main]]
+      identifier = "posts"
+      pre = ""
+      post = ""
+      name = "文"
+      url = "/posts/"
+      title = ""
+      weight = 1
+    [[languages.jp.menu.main]]
+      identifier = "tags"
+      pre = ""
+      post = ""
+      name = "タッグ"
+      url = "/tags/"
+      title = ""
+      weight = 2
+    [[languages.jp.menu.main]]
+      identifier = "categories"
+      pre = ""
+      post = ""
+      name = "分類"
+      url = "/categories/"
+      title = ""
+      weight = 3
+    [[languages.jp.menu.main]]
+      identifier = "about"
+      pre = ""
+      post = ""
+      name = "自分"
+      url = "/about/"
+      title = ""
+      weight = 4
+
 
 # Markup related configuration in Hugo
 [markup]
