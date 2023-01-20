@@ -1,5 +1,5 @@
 ---
-title: "关于"
+title: ""
 date: 2023-01-20T14:38:22+08:00
 draft: false
 ---
@@ -13,6 +13,4 @@ draft: false
 
 ### 个人项目
 
-#### 开发中
-
-- [基于多数据源的IPO上市公司监控系统](https://github.com/lmoyrd/financial-crawl)
+- 【开发中】[基于多数据源的IPO上市公司监控系统](https://github.com/lmoyrd/financial-crawl)
