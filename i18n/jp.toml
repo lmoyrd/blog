@@ -17,7 +17,7 @@ other = "文章"
 
 # === Taxonomy ===
 [allSome]
-other = "所有{{ .Some }}"
+other = "全部{{ .Some }}"
 
 [tag]
 other = "タッグ"
@@ -44,7 +44,7 @@ other = "最近更新"
 
 # === Pagination ===
 [more]
-other = "更多"
+other = "もっと"
 # === Pagination ===
 
 # === partials/header.html ===
@@ -143,22 +143,22 @@ other = "类别 {{ .Categories }}"
 other = "系列 {{ .Series }}"
 
 [wordCount]
-other = "约 {{ .Count }} 字"
+other = "約{{ .Count }} 字"
 
 [readingTime]
-other = "预计阅读 {{ .Count }} 分钟"
+other = "{{ .Count }}分で読むことができます"
 
 [views]
-other = "次阅读"
+other = "回の読み取り"
 
 [comments]
-other = "条评论"
+other = "コメント"
 
 [author]
-other = "作者"
+other = "著者"
 
 [updatedOnDate]
-other = "更新于 {{ .Date }}"
+other = "{{ .Date }}に更新"
 
 [readMarkdown]
 other = "阅读原始文档"
@@ -167,22 +167,22 @@ other = "阅读原始文档"
 other = "查看源代码"
 
 [editThisPage]
-other = "编辑此页"
+other = "このページを編集"
 
 [reportThisPage]
-other = "报告问题"
+other = "問題を報告します"
 
 [back]
-other = "返回"
+other = "戻る"
 
 [home]
-other = "主页"
+other = "ホームページ"
 
 [readMore]
 other = "続きを読む"
 
 [outdatedInfoWarningBefore]
-other = "本文最后更新于 "
+other = "この記事の最終更新日"
 
 [outdatedInfoWarningAfter]
 other = "，文中内容可能已过时。"
