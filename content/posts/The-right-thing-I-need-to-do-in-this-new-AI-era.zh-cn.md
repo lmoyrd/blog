@@ -1,7 +1,6 @@
 ---
 title: "The Right Thing I Need to Do in This New AI Era"
-date: 2023-03-19T18:25:00+08:00
-draft: true
+date: 2023-03-19T18:41:37+08:00
 ---
 
 ![grid_0.png](https://cdn.midjourney.com/c866e03e-ec02-4068-9629-66a578e0a655/grid_0.png)
@@ -29,16 +28,3 @@ draft: true
 1. 单兵作战能力。过往基本偏好自学，比如日语（虽然只过了N3）等，随着GPT的出现，自学能力应该能得到增强。
 2. 多一些想象。很多时候会冒出idea，拖拉的特质让很多idea落不了地，单兵能力的增强，对于互联网类且靠堆人就能完成的idea，落地的概率会加大不少。
 
-最后，看看ChatGPT怎么看这个问题：
-
-![Untitled](https://mmbiz.qpic.cn/mmbiz_png/9CtOJicersT18IwnNAaezQoTDsDkeHYictYtbAf4KhZLdDC9meFLr5JtScUDUgia8PGmictosibibftdHzMNu9RkLBpw/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
-
-![Untitled](https://mmbiz.qpic.cn/mmbiz_png/9CtOJicersT18IwnNAaezQoTDsDkeHYictmn2W9Sblcw19AQkbZicAAWjXjQLOmCOyBgUicFfQ0206ib11Wo2ic42fxA/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
-
-![Untitled](https://mmbiz.qpic.cn/mmbiz_png/9CtOJicersT18IwnNAaezQoTDsDkeHYict2xarfdUIJXt5I5Ue1na1mHIiaic8PA9EyVStZPQHYxGYtA9fFCSPqDxA/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
-
-![Untitled](https://mmbiz.qpic.cn/mmbiz_png/9CtOJicersT18IwnNAaezQoTDsDkeHYictQGwgreOkcrGFnsbibIGTwicJhhpxnEnm0E6kLWibGy9IibbVSicfvbbxYzA/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
-
-![Untitled](https://mmbiz.qpic.cn/mmbiz_png/9CtOJicersT18IwnNAaezQoTDsDkeHYictogk9cRXGMlamQucibreL5MQcEhEgV6oL0tS6GQpibq0icwIHuhJib54kLQ/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
-
-![Untitled](https://mmbiz.qpic.cn/mmbiz_png/9CtOJicersT18IwnNAaezQoTDsDkeHYictibne7D4zs0wO72fwa63Hnk7X8rHbXdetnMoceBHPzPGQIgmc6hAvfgA/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
